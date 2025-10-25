@@ -1,0 +1,59 @@
+{
+	"welcome": "Welcome",
+
+	"applogo": "Your best helper in timely task organization!",
+	"appsubtitle": "Sign-in to create and synchronize your daily tasks across devices",
+	
+	"signin": "Sign In",
+	"signup": "Sign Up",
+	"emaillogin": "E-mail or login",
+	"password": "Password",
+	"confirmpassword": "Confirm Password",
+	"firstname": "First Name",
+	"lastname": "Last Name",
+	"logout": "Log out",
+	
+	"donthaveaccount": "Don't have the account?",
+	"clicktosignup": "Click to sign up",
+
+	"enterdetails": "Enter your details to create your free account",
+	"privacy": "Privacy Policy",
+
+
+	"dailytasks": "Your Daily Tasks",
+	"newtask": "New task",
+	"inprogress": "In progress",
+	"paused": "Task paused",
+	"wontdo": "Won't do task",
+	"done": "Done",
+	"deleted": "Deleted",
+
+	"edittask": "Edit Task",
+	"selectedday": "Selected day",
+	"startfrom" : "Start from",
+	"endat": "End at",
+	"taskdescription": "Task description",
+	"createtask": "Create task",
+	"updatetask": "Update task",
+
+	"taskdetails": "Task Details",
+	"taskstatus": "Task status",
+
+	"markinprogress": "Mark as In progress",
+	"markpaused": "Mark as Paused",
+	"markwontdo": "Mark as Won't do",
+	"markdone": "Mark as Done",
+	"deletethis": "Delete this task",
+	
+	"apierrorheader": "Unable to do requested action at this moment",
+	"apierror": "There was an error during your request. Please check your Internet connection and try again later",
+	"passworderrorheader": "Passwords does not match",
+	"passworderror": "Please check your input details and try again",
+	"texterrorheader": "One or more fields are empty",
+	"texterror": "Please check your input details and try again",
+
+	"confirmation": "Confirmation",
+	"confirmdelete": "Are you sure you want to delete this task?",
+	"confirmlogout": "Are you sure you want to log out?",
+	"cancel": "Cancel"
+}
