@@ -36,7 +36,7 @@
 Дополнительная информация: Для сборки проекта нужно выбрать в Android Studio директорию "Flutter приложение/TaskManagerApp", это откроет проект в готовом для сборки и запуска виде. В проекте есть 6 модулей: task_app, task_presentation, task_domain, task_data, task_entities для каждого из них может понадобиться дополнительно запустить команду flutter pub get + flutter build runner, это должно загрузить все заисимости и сгенерировать нужный автогенерируемый код для БД и для DI. В корне репо лежит собранная для Android сборка проекта TaskManagerAppAndroid.apk ее можно также использовать для установки приложения
 
 # Видео с демонстрацией работы приложения
-
+https://github.com/McKayne/TaskManagerApp/raw/refs/heads/master/appvideo.mp4
 
 #### Скриншоты
 ![screen1](screen1.jpg)
